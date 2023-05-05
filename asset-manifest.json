@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/days-since/static/js/main.cc26ba23.js",
+    "index.html": "/days-since/index.html",
+    "main.cc26ba23.js.map": "/days-since/static/js/main.cc26ba23.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cc26ba23.js"
+  ]
+}
