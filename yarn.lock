@@ -6457,6 +6457,7 @@ __metadata:
     eslint-plugin-react-hooks: ^4.6.0
     eslint-plugin-testing-library: ^5.10.3
     framer-motion: ^10.12.8
+    human-time: ^0.0.2
     prettier: ^2.8.8
     react: ^18.2.0
     react-dom: ^18.2.0
@@ -8627,6 +8628,13 @@ __metadata:
   version: 2.1.0
   resolution: "human-signals@npm:2.1.0"
   checksum: b87fd89fce72391625271454e70f67fe405277415b48bcc0117ca73d31fa23a4241787afdc8d67f5a116cf37258c052f59ea82daffa72364d61351423848e3b8
+  languageName: node
+  linkType: hard
+
+"human-time@npm:^0.0.2":
+  version: 0.0.2
+  resolution: "human-time@npm:0.0.2"
+  checksum: 624ebed3dc0ac8088de0f531ce8f52c91d7caf4268b77614b8ca5680e85521c800fb11a774cea3ddfd06a92cbf17165b6666d3ef379976e6889755d91ec4fb88
   languageName: node
   linkType: hard
 
