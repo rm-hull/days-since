@@ -4203,10 +4203,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^20.0.0":
+"@types/node@npm:*":
   version: 20.0.0
   resolution: "@types/node@npm:20.0.0"
   checksum: 7dadc41081eee634fd0b19e46dfb0a74f8296ee562533118f7c2f2b54dcaba7124961d506db425fff74d8e8288610b93939cd06fa723f053c72b1a7e87aa4ddc
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^20.3.2":
+  version: 20.3.2
+  resolution: "@types/node@npm:20.3.2"
+  checksum: 5929ce2b9b12b1e2a2304a0921a953c72a81f5753ad39ac43b99ce6312fbb2b4fb5bc6b60d64a2550704e3223cd5de1299467d36085ac69888899db978f2653a
   languageName: node
   linkType: hard
 
@@ -6437,7 +6444,7 @@ __metadata:
     "@testing-library/react": ^14.0.0
     "@testing-library/user-event": ^14.4.3
     "@types/jest": ^29.5.1
-    "@types/node": ^20.0.0
+    "@types/node": ^20.3.2
     "@types/object-hash": ^3.0.2
     "@types/react": ^18.2.5
     "@types/react-dom": ^18.2.4
