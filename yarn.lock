@@ -4344,7 +4344,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:*, @types/react@npm:^18.2.5":
+"@types/react@npm:*":
   version: 18.2.5
   resolution: "@types/react@npm:18.2.5"
   dependencies:
@@ -4352,6 +4352,15 @@ __metadata:
     "@types/scheduler": "*"
     csstype: ^3.0.2
   checksum: 97c4534e849edf991be0820b0911d036e794b8e2599a1544f500c769acbcb4f443ccde1a3f22298f22ce368ee7757f746e4a529e889567fc142a627698e2de39
+  languageName: node
+  linkType: hard
+
+"@types/react@npm:^19.2.2":
+  version: 19.2.2
+  resolution: "@types/react@npm:19.2.2"
+  dependencies:
+    csstype: ^3.0.2
+  checksum: 7eb2d316dd5a6c02acb416524b50bae932c38d055d26e0f561ca23c009c686d16a2b22fcbb941eecbe2ecb167f119e29b9d0142d9d056dd381352c43413b60da
   languageName: node
   linkType: hard
 
@@ -6778,7 +6787,7 @@ __metadata:
     "@types/jest": ^29.5.1
     "@types/node": ^20.4.7
     "@types/object-hash": ^3.0.2
-    "@types/react": ^18.2.5
+    "@types/react": ^19.2.2
     "@types/react-dom": ^18.2.4
     "@typescript-eslint/eslint-plugin": ^5.59.2
     "@typescript-eslint/parser": ^8.46.1
@@ -6798,7 +6807,7 @@ __metadata:
     framer-motion: ^10.12.8
     human-time: ^0.0.2
     prettier: ^2.8.8
-    react: ^18.2.0
+    react: ^19.2.0
     react-dom: ^18.2.0
     react-error-boundary: ^4.0.4
     react-icons: ^4.8.0
@@ -13586,12 +13595,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^18.2.0":
-  version: 18.2.0
-  resolution: "react@npm:18.2.0"
-  dependencies:
-    loose-envify: ^1.1.0
-  checksum: 88e38092da8839b830cda6feef2e8505dec8ace60579e46aa5490fc3dc9bba0bd50336507dc166f43e3afc1c42939c09fe33b25fae889d6f402721dcd78fca1b
+"react@npm:^19.2.0":
+  version: 19.2.0
+  resolution: "react@npm:19.2.0"
+  checksum: 33dd01bf699e1c5040eb249e0f552519adf7ee90b98c49d702a50bf23af6852ea46023a5f7f93966ab10acd7a45428fa0f193c686ecdaa7a75a03886e53ec3fe
   languageName: node
   linkType: hard
 
