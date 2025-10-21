@@ -7092,7 +7092,7 @@ __metadata:
     react: ^19.2.0
     react-dom: ^19.2.0
     react-error-boundary: ^4.0.4
-    react-icons: ^4.8.0
+    react-icons: ^5.5.0
     react-router-dom: ^6.11.1
     react-scripts: 5.0.1
     ts-node: ^10.9.2
@@ -14118,12 +14118,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-icons@npm:^4.8.0":
-  version: 4.8.0
-  resolution: "react-icons@npm:4.8.0"
+"react-icons@npm:^5.5.0":
+  version: 5.5.0
+  resolution: "react-icons@npm:5.5.0"
   peerDependencies:
     react: "*"
-  checksum: 4dbba7ad989c295b410e19b2a702722dae44368cb04b6515f9471353552f31ac80bd350f121d5bff79f81504b84039ede44d09e9f035f48bb1032e6eace126c4
+  checksum: cbd74f4b7982e6e18d59798a6b578268c8eb0909d78d87bcf9b25f99b3e544fd189a76551cb5e770d17f154a60b668551aee108aaf8471309b23f7af3b2c5b07
   languageName: node
   linkType: hard
 
