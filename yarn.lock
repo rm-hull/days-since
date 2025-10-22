@@ -4430,10 +4430,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/object-hash@npm:^3.0.2":
-  version: 3.0.2
-  resolution: "@types/object-hash@npm:3.0.2"
-  checksum: 0332e59074e7df2e74c093a7419c05c1e1c5ae1e12d3779f3240b3031835ff045b4ac591362be0b411ace24d3b5e760386b434761c33af25904f7a3645cb3785
+"@types/object-hash@npm:^3.0.6":
+  version: 3.0.6
+  resolution: "@types/object-hash@npm:3.0.6"
+  checksum: 2c7979d4e540af817b99c09fb4c2fed1c0b0e14342df474d8dcde4165a82c440b038341fd66fe998d9f86acdd5cccc65ba8092315e39e7c2114f945fa70aaa56
   languageName: node
   linkType: hard
 
@@ -7152,7 +7152,7 @@ __metadata:
     "@testing-library/user-event": ^14.6.1
     "@types/jest": ^30.0.0
     "@types/node": ^24.8.0
-    "@types/object-hash": ^3.0.2
+    "@types/object-hash": ^3.0.6
     "@types/react": ^19.2.2
     "@types/react-dom": ^19.2.2
     "@typescript-eslint/eslint-plugin": ^8.46.1
