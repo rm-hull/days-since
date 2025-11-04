@@ -4841,19 +4841,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/parser@npm:^8.46.2":
-  version: 8.46.2
-  resolution: "@typescript-eslint/parser@npm:8.46.2"
+"@typescript-eslint/parser@npm:^8.46.3":
+  version: 8.46.3
+  resolution: "@typescript-eslint/parser@npm:8.46.3"
   dependencies:
-    "@typescript-eslint/scope-manager": 8.46.2
-    "@typescript-eslint/types": 8.46.2
-    "@typescript-eslint/typescript-estree": 8.46.2
-    "@typescript-eslint/visitor-keys": 8.46.2
+    "@typescript-eslint/scope-manager": 8.46.3
+    "@typescript-eslint/types": 8.46.3
+    "@typescript-eslint/typescript-estree": 8.46.3
+    "@typescript-eslint/visitor-keys": 8.46.3
     debug: ^4.3.4
   peerDependencies:
     eslint: ^8.57.0 || ^9.0.0
     typescript: ">=4.8.4 <6.0.0"
-  checksum: fc65446e11cc2d21550c1848526458f1dc0ea02bad6454d6a1477f5fa997bbf2a64b4e00b289128e17c69a8b41840367091650075810b458a3cae4a9ab8736cd
+  checksum: 8451da0dec15f65dec4a10f07a78639af3b1389e553fb307b2cf3080fdb70a2950d6da9990f71db2d4560e04f5a656044fd3dd610199b340cb6c9319f766ff44
   languageName: node
   linkType: hard
 
@@ -7405,7 +7405,7 @@ __metadata:
     "@types/react": ^19.2.2
     "@types/react-dom": ^19.2.2
     "@typescript-eslint/eslint-plugin": ^8.46.3
-    "@typescript-eslint/parser": ^8.46.2
+    "@typescript-eslint/parser": ^8.46.3
     eslint: 9.39.1
     eslint-config-prettier: ^10.1.8
     eslint-config-react-app: ^7.0.1
