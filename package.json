@@ -5,7 +5,7 @@
   "license": "MIT",
   "homepage": "https://destructuring-bind.org/days-since",
   "dependencies": {
-    "@chakra-ui/react": "^2.6.1",
+    "@chakra-ui/react": "^3.29.0",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "framer-motion": "^12.23.24",
