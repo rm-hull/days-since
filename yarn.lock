@@ -7453,7 +7453,7 @@ __metadata:
     eslint-plugin-promise: ^7.2.1
     eslint-plugin-react: ^7.37.5
     eslint-plugin-react-hooks: ^7.0.1
-    eslint-plugin-testing-library: ^7.16.0
+    eslint-plugin-testing-library: ^7.16.1
     framer-motion: ^12.38.0
     human-time: ^0.0.2
     prettier: ^3.8.1
@@ -8719,15 +8719,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-testing-library@npm:^7.16.0":
-  version: 7.16.0
-  resolution: "eslint-plugin-testing-library@npm:7.16.0"
+"eslint-plugin-testing-library@npm:^7.16.1":
+  version: 7.16.1
+  resolution: "eslint-plugin-testing-library@npm:7.16.1"
   dependencies:
     "@typescript-eslint/scope-manager": ^8.56.0
     "@typescript-eslint/utils": ^8.56.0
   peerDependencies:
     eslint: ^8.57.0 || ^9.0.0 || ^10.0.0
-  checksum: 734284e0af8e567119cda4f867a3f778d53922aac82043366c5b5aa3a7e4f40502569cb2f546b7b2e31242db25924a0f3402f140df493e9c016dc06ec6d74755
+  checksum: 37e9d507f0cb1194322c0fed8b323d5686df38274dce98915942d7b50816208acf5f9f0e9acb0dfc3593484500d43007788410dfd3219fafc66740f286c514b3
   languageName: node
   linkType: hard
 
