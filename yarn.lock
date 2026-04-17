@@ -7443,7 +7443,7 @@ __metadata:
     eslint-plugin-prettier: ^5.5.5
     eslint-plugin-promise: ^7.2.1
     eslint-plugin-react: ^7.37.5
-    eslint-plugin-react-hooks: ^7.0.1
+    eslint-plugin-react-hooks: ^7.1.0
     eslint-plugin-testing-library: ^7.16.2
     framer-motion: ^12.38.0
     human-time: ^0.0.2
@@ -8631,9 +8631,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-react-hooks@npm:^7.0.1":
-  version: 7.0.1
-  resolution: "eslint-plugin-react-hooks@npm:7.0.1"
+"eslint-plugin-react-hooks@npm:^7.1.0":
+  version: 7.1.0
+  resolution: "eslint-plugin-react-hooks@npm:7.1.0"
   dependencies:
     "@babel/core": ^7.24.4
     "@babel/parser": ^7.24.4
@@ -8641,8 +8641,8 @@ __metadata:
     zod: ^3.25.0 || ^4.0.0
     zod-validation-error: ^3.5.0 || ^4.0.0
   peerDependencies:
-    eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0 || ^9.0.0
-  checksum: d2216919137e6593309640c47d5cbeb903a2989b2ddc1197107b4b1967a8ec2e696d9586015c02cfa2468bdb4ce28b6866f9fd2b555ccbec635556f0a4e1f434
+    eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0 || ^9.0.0 || ^10.0.0
+  checksum: 17032cc553da889a80c80d887767c74081ac49a1d5011a5d37112e73bef8a7ad85ac17dfa99deeb48c930ebf4b714e58abfad662b82cefdebdea107c1c2077b1
   languageName: node
   linkType: hard
 
