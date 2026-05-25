@@ -12,7 +12,7 @@
     "human-time": "^0.0.2",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
-    "react-error-boundary": "^6.1.1",
+    "react-error-boundary": "^6.1.2",
     "react-icons": "^5.6.0",
     "react-router-dom": "^7.15.1",
     "web-vitals": "^5.2.0"
