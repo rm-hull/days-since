@@ -7596,7 +7596,7 @@ __metadata:
     eslint-plugin-react: ^7.37.5
     eslint-plugin-react-hooks: ^7.1.1
     eslint-plugin-testing-library: ^7.16.2
-    framer-motion: ^12.43.0
+    framer-motion: ^13.0.0
     human-time: ^0.0.2
     prettier: ^3.9.6
     react: ^19.2.8
@@ -9621,25 +9621,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:^12.43.0":
-  version: 12.43.0
-  resolution: "framer-motion@npm:12.43.0"
+"framer-motion@npm:^13.0.0":
+  version: 13.0.0
+  resolution: "framer-motion@npm:13.0.0"
   dependencies:
-    motion-dom: ^12.43.0
-    motion-utils: ^12.39.0
+    motion-dom: ^13.0.0
+    motion-utils: ^13.0.0
     tslib: ^2.4.0
   peerDependencies:
-    "@emotion/is-prop-valid": "*"
     react: ^18.0.0 || ^19.0.0
     react-dom: ^18.0.0 || ^19.0.0
   peerDependenciesMeta:
-    "@emotion/is-prop-valid":
-      optional: true
     react:
       optional: true
     react-dom:
       optional: true
-  checksum: 76b252ebe88088231d439279e06c6d61e164126f00238e53dbcd0b35677ec2c27a15639006538346c7c17d8c566a041be6221ecc72e3ec47d10816ceac77d102
+  checksum: 342d3aed0a1a4e21bd77ba0068e0620cd55b0f625dc3f02f111be87c54e713b90084d8fb769b55db74e49d48213033ec7b668503c0b1d511dcde5d266d33a45e
   languageName: node
   linkType: hard
 
@@ -12752,19 +12749,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"motion-dom@npm:^12.43.0":
-  version: 12.43.0
-  resolution: "motion-dom@npm:12.43.0"
+"motion-dom@npm:^13.0.0":
+  version: 13.0.0
+  resolution: "motion-dom@npm:13.0.0"
   dependencies:
-    motion-utils: ^12.39.0
-  checksum: 47b4a14c48daa83c75b0ca3dd2429b61628979fa441905278360973dcf52a1445b4ceda9cf282189f42a74a9dab2dc12b24a8894dc499c99fdb475c93da6c46a
+    motion-utils: ^13.0.0
+  checksum: bb9a6eadd6c3477f960451a17f69f035d275576abb5d3ff9b7aad4e1ad8b354356fe7e297627e8362d59674774788d3b7813043fe31e848d59ab0e3ed538e4b3
   languageName: node
   linkType: hard
 
-"motion-utils@npm:^12.39.0":
-  version: 12.39.0
-  resolution: "motion-utils@npm:12.39.0"
-  checksum: feb4f68fba3e2ed13bbbc193b2c786fe1d800b66c7a07df36de630428c856628e7e39e7791835d785419f6403f34d78c561feca96a4b14d1681ef79a561ebdd3
+"motion-utils@npm:^13.0.0":
+  version: 13.0.0
+  resolution: "motion-utils@npm:13.0.0"
+  checksum: 0cb30b6d2b50b40fa8430a7c8fa3e75f93167135d48fa78a25deb3007810ec278176e51f3c984e99b9f30d81da7c27e2c07cfe4a028fa989118eb0a87f83bfdb
   languageName: node
   linkType: hard
 
