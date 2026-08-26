@@ -7590,7 +7590,7 @@ __metadata:
     eslint: 10.9.0
     eslint-config-prettier: ^10.1.8
     eslint-config-react-app: ^7.0.1
-    eslint-plugin-cypress: ^7.0.0
+    eslint-plugin-cypress: ^7.0.1
     eslint-plugin-import: ^2.32.0
     eslint-plugin-jest: ^29.16.1
     eslint-plugin-jsx-a11y: ^6.10.2
@@ -8550,18 +8550,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-cypress@npm:^7.0.0":
-  version: 7.0.0
-  resolution: "eslint-plugin-cypress@npm:7.0.0"
+"eslint-plugin-cypress@npm:^7.0.1":
+  version: 7.0.1
+  resolution: "eslint-plugin-cypress@npm:7.0.1"
   dependencies:
-    globals: ^17.9.0
+    globals: ^17.11.0
   peerDependencies:
     "@typescript-eslint/parser": ">=8"
     eslint: ">=10"
   peerDependenciesMeta:
     "@typescript-eslint/parser":
       optional: true
-  checksum: 80505c377d7f5783e72ed615c8c97af677961f367ad8239953320ae5235cba2a586ea0e9ae7a6f967ba3344f0eccb670aad597b4289c3708a2cbed6e2a5f8128
+  checksum: 0c31652fa0fbadefbdf35a363fbaf93c79095b6a38d12b1117fad560f196e54f4d47d51ede9f326adbc046cf4a312da766a85c255211148b5618faf644d66f4b
   languageName: node
   linkType: hard
 
@@ -10002,10 +10002,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"globals@npm:^17.9.0":
-  version: 17.9.0
-  resolution: "globals@npm:17.9.0"
-  checksum: 16657a4355cff42b2315177a9dfe9d2c2f8885045269143a4219afeeae780ff0300b24d56ca0bf0506ebb9735bbe901681d9d86ef9d2813c25ee3f2c7ad851c6
+"globals@npm:^17.11.0":
+  version: 17.11.0
+  resolution: "globals@npm:17.11.0"
+  checksum: 6b07223507f04253a924384afcdda737439e6dd974fbbb723700fa1d38477fba23264ba61fe5108bf354daf15b2caa7c083a616f8e8b103861c13c0acc808412
   languageName: node
   linkType: hard
 
