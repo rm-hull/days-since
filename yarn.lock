@@ -7611,7 +7611,7 @@ __metadata:
     react-scripts: 5.0.1
     ts-node: ^10.9.2
     typescript: ^7.0.2
-    web-vitals: ^6.2.0
+    web-vitals: ^6.2.1
   languageName: unknown
   linkType: soft
 
@@ -17421,10 +17421,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"web-vitals@npm:^6.2.0":
-  version: 6.2.0
-  resolution: "web-vitals@npm:6.2.0"
-  checksum: e6b1ceb4917572d68fa58b177834e0e54ad44453c91888d15f1cc50be37e6d2f8c3ede691ba6ea152ecc2b6fcf1209f8008ff56179ebe9f9a6c0af0beaa07bf2
+"web-vitals@npm:^6.2.1":
+  version: 6.2.1
+  resolution: "web-vitals@npm:6.2.1"
+  checksum: ed46f8525d46ba2c241be59a7ee4f694d09c3ed06c93c13d87ab86306d1e5c28ea0bf9667d7e1350f17b63a4ba0660923b8b288bdc67a942664d43bb6afd2218
   languageName: node
   linkType: hard
 
