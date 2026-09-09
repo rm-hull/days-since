@@ -7659,7 +7659,7 @@ __metadata:
     prettier: ^3.9.6
     react: ^19.2.8
     react-dom: ^19.2.8
-    react-error-boundary: ^6.1.4
+    react-error-boundary: ^6.1.5
     react-icons: ^5.7.0
     react-router-dom: ^7.18.3
     react-scripts: 5.0.1
@@ -14738,16 +14738,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-error-boundary@npm:^6.1.4":
-  version: 6.1.4
-  resolution: "react-error-boundary@npm:6.1.4"
+"react-error-boundary@npm:^6.1.5":
+  version: 6.1.5
+  resolution: "react-error-boundary@npm:6.1.5"
   peerDependencies:
     "@types/react": ^18.0.0 || ^19.0.0
     react: ^18.0.0 || ^19.0.0
   peerDependenciesMeta:
     "@types/react":
       optional: true
-  checksum: dfec110c73e85067a31f1459e5634567fb9730f7efe29c0057cfd98ef2bd3bef926de9cf400b660c2031745160297f54698edf9a057051a56cdcfa04bbed1f72
+  checksum: d21f8cdfac0e8d5caf6214230cf4a0622b98d49f09b121e9f5cb1dc06ca21a05028b64e237048fe6e2f180ab31b7d2a5e65b130366d4311e72d6d557e1818498
   languageName: node
   linkType: hard
 
