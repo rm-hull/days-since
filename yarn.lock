@@ -4615,12 +4615,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^26.5.0":
-  version: 26.5.0
-  resolution: "@types/node@npm:26.5.0"
+"@types/node@npm:^26.5.1":
+  version: 26.5.1
+  resolution: "@types/node@npm:26.5.1"
   dependencies:
     undici-types: ~8.9.0
-  checksum: 6df3dc02db3629699ab5980bf9a61550393eb594f4ff5c5ba9a76f0e68cea835aa78466cc31df9c0e2206be109059ada01830f6ab6bdcbaa922603f75c5ae5bc
+  checksum: eb3f2aa537b2749e851dc40fbd97aefe281d4aa0de36cc93a3772a2f30821c800782119985d6dbf25f0477bbb0cc04a1ad82c97930b3f904aa6601943025f7d6
   languageName: node
   linkType: hard
 
@@ -7635,7 +7635,7 @@ __metadata:
     "@testing-library/react": ^16.3.3
     "@testing-library/user-event": ^14.6.7
     "@types/jest": ^30.0.0
-    "@types/node": ^26.5.0
+    "@types/node": ^26.5.1
     "@types/object-hash": ^3.0.6
     "@types/react": ^19.3.0
     "@types/react-dom": ^19.2.7
