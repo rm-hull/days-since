@@ -15,7 +15,7 @@
     "react-error-boundary": "^6.1.5",
     "react-icons": "^5.7.0",
     "react-router-dom": "^7.18.3",
-    "web-vitals": "^6.2.1"
+    "web-vitals": "^6.2.2"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^7.0.1",
