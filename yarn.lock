@@ -7654,7 +7654,7 @@ __metadata:
     eslint-plugin-react: ^7.37.5
     eslint-plugin-react-hooks: ^7.1.1
     eslint-plugin-testing-library: ^7.16.2
-    framer-motion: ^13.5.0
+    framer-motion: ^14.0.0
     human-time: ^0.0.2
     prettier: ^3.9.9
     react: ^19.3.0
@@ -9680,12 +9680,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:^13.5.0":
-  version: 13.5.0
-  resolution: "framer-motion@npm:13.5.0"
+"framer-motion@npm:^14.0.0":
+  version: 14.0.0
+  resolution: "framer-motion@npm:14.0.0"
   dependencies:
-    motion-dom: ^13.5.0
-    motion-utils: ^13.5.0
+    motion-dom: 14.0.0
+    motion-utils: 14.0.0
     tslib: ^2.4.0
   peerDependencies:
     react: ^18.0.0 || ^19.0.0
@@ -9695,7 +9695,7 @@ __metadata:
       optional: true
     react-dom:
       optional: true
-  checksum: 1a1cfe66ac2112aa9fc33449ef1bba6278d4600e171a3548024be96e7066881cac68246b284da571537e848996ae9c8cbbd616d677a56be22d5d83bddf80dc12
+  checksum: f93f723bf74a4af331f2c13bb4077f47a3ad2c0b3c9f393b333151db0b99a623c266c428c3c11248d6f3888112109cd4bc4046b6d93d57f7a3ae42b2f52bbb8e
   languageName: node
   linkType: hard
 
@@ -12824,19 +12824,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"motion-dom@npm:^13.5.0":
-  version: 13.5.1
-  resolution: "motion-dom@npm:13.5.1"
+"motion-dom@npm:14.0.0":
+  version: 14.0.0
+  resolution: "motion-dom@npm:14.0.0"
   dependencies:
-    motion-utils: 13.5.0
-  checksum: 449a176dd4ff561373bc4277fb7100f4275b5dbe0b793abe9a7001a2d1ac7d02bb9672aedd4c7ad9e966f9b3d643a8373dcb3a027cfb53c3537d046ca3052496
+    motion-utils: 14.0.0
+  checksum: 370c93eead53dff1c1ac72934b56480fbbc9cd45994ac3e2a65d16825239223f29092ca6cdcfaa225f4e0d898c7d14e6bd46c7c942631da7dee5afc9010e9e24
   languageName: node
   linkType: hard
 
-"motion-utils@npm:13.5.0, motion-utils@npm:^13.5.0":
-  version: 13.5.0
-  resolution: "motion-utils@npm:13.5.0"
-  checksum: 57eab2bf4a745b3c1a6be6b23d830e9dbbe3c9b2242db2bd1d55bb488ffa8e67e3ca7735435d5efc825773365e91fb325047354e327f06ac17040964cf17950f
+"motion-utils@npm:14.0.0":
+  version: 14.0.0
+  resolution: "motion-utils@npm:14.0.0"
+  checksum: 76a78404a7f655e35cd59b6b47e5dd1a9f6fc6d9ff27bb4119a7402e38a8ab60da63a6189c18b39a4703daada30556c3c3d2d90ddc56850416647a0708ff45f6
   languageName: node
   linkType: hard
 
