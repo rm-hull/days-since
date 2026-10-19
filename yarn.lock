@@ -4272,12 +4272,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@testing-library/user-event@npm:^14.6.7":
-  version: 14.6.7
-  resolution: "@testing-library/user-event@npm:14.6.7"
+"@testing-library/user-event@npm:^14.6.8":
+  version: 14.6.8
+  resolution: "@testing-library/user-event@npm:14.6.8"
   peerDependencies:
     "@testing-library/dom": ">=7.21.4"
-  checksum: 3bf1b3dc4cec446ceb46c46fc9abaec1b086fb4649d207009abad7e554e6a56ed55ee53871f5277dd366f2c4cce3698a462f9ecd83fa4561fe75a67581342b2f
+  checksum: e41b56461076c6d1fb61b6c0b5d81c77bcefb5b35e011a99a029f705777964b3af925a6fa511465c36d1727ef1457d4a5c3aba7b73f5fb9ad49daaeb6582294c
   languageName: node
   linkType: hard
 
@@ -7633,7 +7633,7 @@ __metadata:
     "@emotion/styled": ^11.14.1
     "@testing-library/jest-dom": ^7.0.1
     "@testing-library/react": ^16.3.3
-    "@testing-library/user-event": ^14.6.7
+    "@testing-library/user-event": ^14.6.8
     "@types/jest": ^30.0.0
     "@types/node": ^26.6.5
     "@types/object-hash": ^3.0.6
